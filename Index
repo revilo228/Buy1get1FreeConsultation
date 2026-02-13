@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>Rafy's World — 🧧 Chinese New Year BOGO Deal</title>
+<title>Rafy's World — 🧧 Chinese New Year Buy 1 Get 1 Free Deal</title>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://fast.wistia.com/embed/medias/1mjtycwa3l.jsonp" async></script>
 <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
@@ -923,14 +923,14 @@ em.gold { color: var(--amber); font-style: italic; }
 
 <!-- URGENCY BANNER -->
 <div class="urgency-bar">
-  🧧 Chinese New Year BOGO — Career + Relationship Reading — <strong>$131</strong>
+  🧧 Chinese New Year Buy 1 Get 1 Free — Career + Relationship Reading — <strong>$131</strong>
 </div>
 
 <!-- HERO -->
 <section class="hero">
   <div class="container">
     <div class="icp-callout fade-up">
-      <span>🧧 Chinese New Year BOGO Deal</span>
+      <span>🧧 Chinese New Year Buy 1 Get 1 Free Deal</span>
     </div>
 
     <div class="hero-headline fade-up fade-up-d1">
@@ -956,7 +956,7 @@ em.gold { color: var(--amber); font-style: italic; }
 
     <!-- CTA Card -->
     <div class="cta-card">
-      <div class="cny-badge">🧧 Chinese New Year BOGO</div>
+      <div class="cny-badge">🧧 Chinese New Year Buy 1 Get 1 Free</div>
       <h3>Two Readings. <span style="color:var(--gold)">One Price.</span></h3>
       <p class="sub">Career Roadmap + Compatibility Reading — both for the price of one.</p>
 
@@ -975,7 +975,7 @@ em.gold { color: var(--amber); font-style: italic; }
         <li>Specific Vedic remedies for both areas</li>
       </ul>
 
-      <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-primary-inline" target="_blank">🧧 Claim Your BOGO Deal →</a>
+      <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-primary-inline" target="_blank">🧧 Claim Your Buy 1 Get 1 Free Deal →</a>
 
       <div class="guarantee-micro">
         <span>🛡</span> 100% money-back if you don't feel 10x the value in clarity.
@@ -1272,7 +1272,7 @@ em.gold { color: var(--amber); font-style: italic; }
         <li>Free implementation call</li>
       </ul>
 
-      <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-deal" target="_blank">🧧 Claim the BOGO Deal — $131 →</a>
+      <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-deal" target="_blank">🧧 Claim the Buy 1 Get 1 Free Deal — $131 →</a>
 
       <div class="guarantee-micro" style="justify-content:center;">
         <span>🛡</span> 100% money-back guarantee.
@@ -1311,7 +1311,7 @@ em.gold { color: var(--amber); font-style: italic; }
 
     <div class="faq-list">
       <div class="faq-item">
-        <button class="faq-q">What exactly do I get with the BOGO deal?</button>
+        <button class="faq-q">What exactly do I get with the Buy 1 Get 1 Free deal?</button>
         <div class="faq-a"><div class="faq-a-inner">Two full Trinity readings: the <strong>Career Roadmap</strong> (60 min) and the <strong>Compatibility Analysis</strong> (60 min). Both use all three systems. That's two separate calls, two chart preparations, and Vedic remedies for both areas. All for $131 instead of $321.</div></div>
       </div>
       <div class="faq-item">
@@ -1328,7 +1328,7 @@ em.gold { color: var(--amber); font-style: italic; }
       </div>
       <div class="faq-item">
         <button class="faq-q">How long is this deal available?</button>
-        <div class="faq-a"><div class="faq-a-inner">This BOGO offer runs for <strong>4 days only</strong> for Chinese New Year. Once the timer hits zero, both readings return to individual prices ($131 + $190 = $321). No extensions.</div></div>
+        <div class="faq-a"><div class="faq-a-inner">This Buy 1 Get 1 Free offer runs for <strong>4 days only</strong> for Chinese New Year. Once the timer hits zero, both readings return to individual prices ($131 + $190 = $321). No extensions.</div></div>
       </div>
       <div class="faq-item">
         <button class="faq-q">How is this different from Co-Star?</button>
@@ -1343,18 +1343,18 @@ em.gold { color: var(--amber); font-style: italic; }
   <div class="container">
     <h2>🧧 Two Readings. One Price.<br>Only <em>4 Days.</em></h2>
     <p>Your career and your relationship — decoded by the Trinity Method. Don't let the Year of the Snake begin without your map.</p>
-    <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-deal" target="_blank">🧧 Claim the BOGO Deal — $131 →</a>
+    <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" class="btn-deal" target="_blank">🧧 Claim the Buy 1 Get 1 Free Deal — $131 →</a>
   </div>
 </section>
 
 <!-- FOOTER -->
 <footer class="footer">
-  &copy; 2025 Rafy's World. All rights reserved.<br>🧧 Chinese New Year BOGO — Limited Time.
+  &copy; 2025 Rafy's World. All rights reserved.<br>🧧 Chinese New Year Buy 1 Get 1 Free — Limited Time.
 </footer>
 
 <!-- STICKY BOTTOM CTA -->
 <div class="sticky-cta">
-  <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" target="_blank">🧧 BOGO Deal — $131 →</a>
+  <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" target="_blank">🧧 Buy 1 Get 1 Free Deal — $131 →</a>
   <div class="price-tag"><s>$321</s> → Two readings, one price</div>
 </div>
 
@@ -1362,7 +1362,7 @@ em.gold { color: var(--amber); font-style: italic; }
 <div class="popup" id="popup">
   <div class="emoji">🧧</div>
   <div class="popup-text" id="popup-text">
-    <p style="margin:0;"><strong>Jean</strong> from France just booked the <span class="product">CNY BOGO Deal</span></p>
+    <p style="margin:0;"><strong>Jean</strong> from France just booked the <span class="product">CNY Buy 1 Get 1 Free Deal</span></p>
     <div class="time-ago">2 minutes ago</div>
   </div>
 </div>
@@ -1422,7 +1422,7 @@ em.gold { color: var(--amber); font-style: italic; }
     last = i;
     const p = names[i];
     const t = Math.floor(Math.random() * 10) + 1;
-    text.innerHTML = `<p style="margin:0;"><strong>${p.name}</strong> from ${p.loc} just booked the <span class="product">CNY BOGO Deal</span></p><div class="time-ago">${t} min ago</div>`;
+    text.innerHTML = `<p style="margin:0;"><strong>${p.name}</strong> from ${p.loc} just booked the <span class="product">CNY Buy 1 Get 1 Free Deal</span></p><div class="time-ago">${t} min ago</div>`;
     popup.classList.add('show');
     setTimeout(() => popup.classList.remove('show'), 4000);
   }
