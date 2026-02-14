@@ -869,6 +869,64 @@ em.gold { color: var(--amber); font-style: italic; }
 }
 
 /* ============================================
+   STICKY BOTTOM CTA — Always visible
+   ============================================ */
+.sticky-cta {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 1000;
+  background: rgba(12, 10, 9, 0.95);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid var(--surface2);
+  padding: 12px 16px;
+  padding-bottom: calc(12px + env(safe-area-inset-bottom));
+}
+.sticky-cta a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  background: linear-gradient(135deg, var(--red), #b91c1c);
+  color: #fff;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+.sticky-cta a::after {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 100%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.12), transparent);
+  animation: shimmer 3s infinite;
+}
+@keyframes shimmer {
+  0% { left: -100%; }
+  100% { left: 100%; }
+}
+.sticky-cta .price-tag {
+  font-size: 12px;
+  font-weight: 500;
+  color: rgba(255,255,255,0.7);
+  text-align: center;
+  margin-top: 4px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.sticky-cta .price-tag s { opacity: 0.5; }
+
+/* ============================================
    SOCIAL PROOF POPUP — bottom-left, above sticky
    ============================================ */
 .popup {
@@ -1123,7 +1181,7 @@ em.gold { color: var(--amber); font-style: italic; }
 <section class="origin-section">
   <div class="container">
     <div class="origin-photo">
-      <img src="https://i.postimg.cc/dhwKcSfY/rafi.jpg" alt="Rafi" loading="lazy">
+      <img src="https://i.postimg.cc/qN4dHZFk/rafi-small.jpg" alt="Rafi" loading="lazy">
     </div>
     <div class="origin-text">
       <div class="section-label">Who Built This</div>
@@ -1198,6 +1256,9 @@ em.gold { color: var(--amber); font-style: italic; }
     </div>
     <div class="proof-screenshot">
       <img src="https://i.postimg.cc/8J9S8p23/testimonial-5.jpg" alt="Client testimonial" loading="lazy">
+    </div>
+    <div class="proof-screenshot">
+      <img src="https://i.postimg.cc/dhwKcSfY/rafi.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
       <img src="https://i.postimg.cc/wyZpKqCn/testimonial-7.jpg" alt="Client testimonial" loading="lazy">
