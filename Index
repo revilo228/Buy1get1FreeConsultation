@@ -915,18 +915,15 @@ em.gold { color: var(--amber); font-style: italic; }
 </head>
 <body>
 
-<!-- STICKY NAV — Slim with timer -->
 <nav class="nav">
   <a href="#" class="nav-logo">☿ Rafy's World</a>
   <div class="nav-timer">🧧 <span id="countdown-nav">3d 23:59:59</span></div>
 </nav>
 
-<!-- URGENCY BANNER -->
 <div class="urgency-bar">
   🧧 Chinese New Year Buy 1 Get 1 Free — Career + Relationship Reading — <strong>$131</strong>
 </div>
 
-<!-- HERO -->
 <section class="hero">
   <div class="container">
     <div class="icp-callout fade-up">
@@ -941,7 +938,6 @@ em.gold { color: var(--amber); font-style: italic; }
       Get <strong>both</strong> your Trinity Career Roadmap and Compatibility Reading for just $131. Two deep-dive readings. One transformational price.
     </p>
 
-    <!-- VSL -->
     <div class="vsl-wrapper fade-up fade-up-d3">
       <div class="wistia_responsive_padding">
         <div class="wistia_responsive_wrapper">
@@ -954,7 +950,6 @@ em.gold { color: var(--amber); font-style: italic; }
       </div>
     </div>
 
-    <!-- CTA Card -->
     <div class="cta-card">
       <div class="cny-badge">🧧 Chinese New Year Buy 1 Get 1 Free</div>
       <h3>Two Readings. <span style="color:var(--gold)">One Price.</span></h3>
@@ -984,7 +979,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- COPY HINGE -->
 <div class="copy-hinge">
   <div class="proof-stats">
     <div class="proof-stat">
@@ -1006,7 +1000,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </div>
 
-<!-- GAP SECTION -->
 <section class="gap-section">
   <div class="container">
     <div class="gap-content">
@@ -1036,7 +1029,6 @@ em.gold { color: var(--amber); font-style: italic; }
 
 <div class="divider"></div>
 
-<!-- FAILED SOLUTIONS — Swipeable -->
 <section class="failed-section">
   <div class="section-head">
     <div class="section-label">Why Nothing Has Worked</div>
@@ -1084,7 +1076,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- BRIDGE — Trinity Method -->
 <section class="bridge-section" id="method">
   <div class="container">
     <div class="bridge-intro">
@@ -1129,11 +1120,10 @@ em.gold { color: var(--amber); font-style: italic; }
 
 <div class="divider"></div>
 
-<!-- ORIGIN STORY -->
 <section class="origin-section">
   <div class="container">
     <div class="origin-photo">
-      <img src="images/testimonial-4.png" alt="Rafi" loading="lazy">
+      <img src="https://i.postimg.cc/dhwKcSfY/rafi.jpg" alt="Rafi" loading="lazy">
     </div>
     <div class="origin-text">
       <div class="section-label">Who Built This</div>
@@ -1154,7 +1144,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- TRANSFORMATION -->
 <section class="transform-section">
   <div class="container">
     <div class="section-head">
@@ -1192,7 +1181,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- SOCIAL PROOF — Swipeable -->
 <section class="proof-section">
   <div class="container">
     <div class="section-head">
@@ -1203,32 +1191,28 @@ em.gold { color: var(--amber); font-style: italic; }
 
   <div class="proof-scroll">
     <div class="proof-screenshot">
-      <img src="images/testimonial-2.png" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/gxmPbB7G/testimonial-2.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
-      <img src="images/testimonial-8.png" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/gxmPbB7z/testimonial-3.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
-      <img src="images/testimonial-5.png" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/8J9S8p23/testimonial-5.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
-      <img src="images/testimonial-7.png" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/wyZpKqCn/testimonial-7.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
-      <img src="images/testimonial-3.png" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/Vrp8yfx3/testimonial-8.jpg" alt="Client testimonial" loading="lazy">
     </div>
     <div class="proof-screenshot">
-      <img src="images/testimonial-6.png" alt="Client testimonial" loading="lazy">
-    </div>
-    <div class="proof-screenshot">
-      <img src="images/rafi.jpg" alt="Client testimonial" loading="lazy">
+      <img src="https://i.postimg.cc/S23h0SBB/testimonial-6.jpg" alt="Client testimonial" loading="lazy">
     </div>
   </div>
 </section>
 
 <div class="divider"></div>
 
-<!-- CNY DEAL SECTION -->
 <section class="cny-deal-section" id="cny-deal">
   <div class="container">
     <div style="text-align:center; margin-bottom:12px;">
@@ -1283,7 +1267,6 @@ em.gold { color: var(--amber); font-style: italic; }
 
 <div class="divider"></div>
 
-<!-- GUARANTEE -->
 <section class="guarantee-section">
   <div class="container">
     <div class="guarantee-box">
@@ -1291,7 +1274,7 @@ em.gold { color: var(--amber); font-style: italic; }
       <h3>The "10x Clarity" <span>Guarantee</span></h3>
       <p>If you complete your readings and don't feel 10x the value in clarity, I'll refund 100%. No questions. No hoops. My reputation is on the line with every session.</p>
       <div class="guarantee-sig">
-        <img src="images/rafi-small.jpg" alt="Rafi" loading="lazy">
+        <img src="https://i.postimg.cc/qN4dHZFk/rafi-small.jpg" alt="Rafi" loading="lazy">
         <div>
           <div class="name">Rafi</div>
           <div class="title">Creator, "The Billionaire's Blueprint"</div>
@@ -1301,7 +1284,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- FAQ -->
 <section class="faq-section">
   <div class="container">
     <div class="section-head">
@@ -1338,7 +1320,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- FINAL CTA -->
 <section class="final-cta">
   <div class="container">
     <h2>🧧 Two Readings. One Price.<br>Only <em>4 Days.</em></h2>
@@ -1347,18 +1328,15 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </section>
 
-<!-- FOOTER -->
 <footer class="footer">
   &copy; 2025 Rafy's World. All rights reserved.<br>🧧 Chinese New Year Buy 1 Get 1 Free — Limited Time.
 </footer>
 
-<!-- STICKY BOTTOM CTA -->
 <div class="sticky-cta">
   <a href="https://buy.stripe.com/4gM5kFgxogpif1MgiCasg02" target="_blank">🧧 Buy 1 Get 1 Free Deal — $131 →</a>
   <div class="price-tag"><s>$321</s> → Two readings, one price</div>
 </div>
 
-<!-- SOCIAL PROOF POPUP -->
 <div class="popup" id="popup">
   <div class="emoji">🧧</div>
   <div class="popup-text" id="popup-text">
@@ -1367,7 +1345,6 @@ em.gold { color: var(--amber); font-style: italic; }
   </div>
 </div>
 
-<!-- SCRIPTS -->
 <script>
 // COUNTDOWN — 4 days from first visit
 (function() {
@@ -1422,7 +1399,7 @@ em.gold { color: var(--amber); font-style: italic; }
     last = i;
     const p = names[i];
     const t = Math.floor(Math.random() * 10) + 1;
-    text.innerHTML = `<p style="margin:0;"><strong>${p.name}</strong> from ${p.loc} just booked the <span class="product">CNY Buy 1 Get 1 Free Deal</span></p><div class="time-ago">${t} min ago</div>`;
+    text.innerHTML = `<p style="margin:0;"><strong>${p.name}</strong> from ${p.loc} just booked the <span class="product">CNY Buy 1 Get 1 Free Deal</span></p><div class=\"time-ago\">${t} min ago</div>`;
     popup.classList.add('show');
     setTimeout(() => popup.classList.remove('show'), 4000);
   }
